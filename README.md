@@ -1,55 +1,52 @@
-Pogi
-**Full-Stack Developer**
-I’m a 4th-year IT student focused on becoming a full-stack JavaScript developer.
-I enjoy building simple, fast, and clean applications while continuously improving my understanding of modern web development.
+# Pogi
+### Full-Stack Developer | JavaScript, TypeScript, React, Next.js
 
-About Me
+I’m a 4th-year IT student and a full-stack developer specializing in modern JavaScript frameworks.
+I build clean, fast, and scalable applications while continuously improving my skills across both frontend and backend development.
 
-Currently learning Next.js, Node.js, and strengthening TypeScript skills
+---
 
-Exploring backend development, REST APIs, and scalable project structures
+## About Me
+- Full-stack developer focused on **React**, **Next.js**, **Node.js**, and **TypeScript**
+- Comfortable building REST APIs, server-side logic, and UI components
+- Currently sharpening backend patterns and preparing for real-world OJT experience
+- Interested in projects that involve modern JavaScript ecosystems and full-stack workflows
 
-Preparing for real-world development during my upcoming OJT
+---
 
-Interested in opportunities that involve JavaScript frameworks and full-stack development
+## Skills
+**Frontend:**  
+JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS  
 
-Skills
+**Backend:**  
+Node.js, Express, PHP (Laravel in progress)  
 
-Frontend:
-JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS
+**Database:**  
+MongoDB, MySQL  
 
-Backend:
-Node.js, Express, PHP (Laravel in progress)
+**Tools:**  
+Git, GitHub, VS Code, Postman  
 
-Database:
-MongoDB, MySQL
+---
 
-Tools:
-Git, GitHub, VS Code, Postman
+## Projects
+*(Replace these with real links when available)*  
 
-Projects
+- **Mini E-Commerce App** — React, Node.js, MongoDB  
+- **Portfolio Website** — Next.js, Tailwind CSS  
+- **REST API Starter** — Express, TypeScript  
+- **Small Utility Apps** (Calculator, Weather App, Typing Game)
 
-(Replace these with real links when ready)
+---
 
-Mini E-Commerce App — React, Node.js, MongoDB
+## Goals
+- Build more production-grade full-stack applications  
+- Strengthen backend architecture and deployment workflows  
+- Gain strong hands-on experience during OJT  
+- Work in a large tech company after graduation  
 
-Portfolio Website — Next.js, Tailwind CSS
+---
 
-REST API Starter — Express, TypeScript
-
-Small Utility Apps (Calculator, Weather App, Typing Game)
-
-Goals
-
-Become confident with full-stack development using React + Next.js + Node.js
-
-Build production-ready applications
-
-Gain strong hands-on experience during OJT
-
-Work in a large tech company after graduation
-
-Contact
-
-Email: your email here
-Portfolio: coming soon
+## Contact
+**Email:** your-email@example.com  
+**Portfolio:** coming soon  
