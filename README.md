@@ -1,6 +1,5 @@
 Pogi
-Aspiring Full-Stack Developer | JavaScript, TypeScript, React, Next.js
-
+**Full-Stack Developer**
 I’m a 4th-year IT student focused on becoming a full-stack JavaScript developer.
 I enjoy building simple, fast, and clean applications while continuously improving my understanding of modern web development.
 
