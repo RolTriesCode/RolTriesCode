@@ -1,4 +1,4 @@
-# Pogi
+# Hi there! 👋
 ### Full-Stack Developer | JavaScript, TypeScript, React, Next.js
 
 I’m a 4th-year IT student and a full-stack developer specializing in modern JavaScript frameworks.
