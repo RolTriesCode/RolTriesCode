@@ -9,7 +9,7 @@ I’m a 4th-year IT student and a full-stack web developer specializing in moder
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [eatabangen@unp.edu.ph](mailto:eatabangen@unp.edu.ph)
 * 👥  I'm looking to collaborate on interesting projects.
-
+<br/><br/>
 <p align="left">
 
 <!-- Row 1 -->
@@ -24,7 +24,7 @@ I’m a 4th-year IT student and a full-stack web developer specializing in moder
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" /></a>&nbsp;&nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" /></a>
 
-<br/><br/>
+
 
 <!-- Row 2 -->
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" /></a>&nbsp;&nbsp;
