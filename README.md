@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Errol Tabangen!
 ========================================================================================================================================
 
-Web Developer and UI/UX Designer
+Web Developer and Aspiring UI/UX Designer
 --------------------------------
 
 I’m a 4th-year IT student and a full-stack web developer specializing in modern JavaScript frameworks. I build clean, fast, and scalable applications—while also exploring UI/UX design to improve the overall user experience and design quality of my projects.
