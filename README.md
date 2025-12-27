@@ -3,15 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web Developer and Aspiring UI/UX Designer
 --------------------------------
-
-I’m a 4th-year IT student and a full-stack web developer specializing in modern JavaScript frameworks. I build clean, fast, and scalable applications—while also exploring UI/UX design to improve the overall user experience and design quality of my projects.
-
-* 🌍  I'm based in Philippines
-* ✉️  You can contact me at [eatabangen@unp.edu.ph](mailto:eatabangen@unp.edu.ph)
-* 👥  I'm looking to collaborate on interesting projects.
+Hi, I'm Errol — a 4th-year IT student and passionate web developer from the Philippines. I specialize in building full‑stack web applications with a focus on clean, modern, and user-friendly designs. I enjoy turning complex ideas into intuitive digital experiences, blending functionality with aesthetics to create premium web apps. Constantly learning and experimenting with new technologies, I strive to make projects that are not just functional but also visually engaging and impactful.
 <br/><br/>
 <p align="left">
 
+
+Skills and tools i've used:
+--------------------------------
 <!-- Row 1 -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" /></a>&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" /></a>&nbsp;&nbsp;
