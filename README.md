@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full-stack Web Developer and UI/UX Enthusiast
 --------------------------------
-Hi, I'm Errol — a 4th-year IT student and passionate web developer from the Philippines. I specialize in building full‑stack web applications with a focus on clean, modern, and user-friendly designs. I enjoy turning complex ideas into intuitive digital experiences, blending functionality with aesthetics to create premium web apps. Constantly learning and experimenting with new technologies, I strive to make projects that are not just functional but also visually engaging and impactful.
+Hi, I'm Errol — a 4th-year IT student and passionate web developer from the Philippines. I specialize in building full‑stack web applications with a focus on clean, modern, and user-friendly designs. I enjoy turning complex ideas into intuitive digital experiences, blending functionality with aesthetics to create premium web apps. Constantly learning and experimenting with new technologies, I strive to make projects that are not just functional but also visually engaging.
 <br/><br/>
 <p align="left">
 
